@@ -1,0 +1,6 @@
+syntax:glob
+*.swp
+testLibrary.so
+main
+testLibrary.o
+libtestLibrary.so
